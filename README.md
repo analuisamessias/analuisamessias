@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Aninha, welcome to my github!
 - 💻 Information Technology (IT) - UFMG
-- 🎤 Singer on  Lagoinha One Worship
-- ✝️ Love Jesus
-- 📫 See my instagram (aninha_cam)
+- Languages: C | C++ | Python | HTML | CSS | JavScript
 
 <!---
 analuisamessias/analuisamessias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
